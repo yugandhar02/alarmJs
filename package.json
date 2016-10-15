@@ -1,0 +1,29 @@
+{
+  "name": "alarmjs",
+  "version": "0.1.0",
+  "description": "Create alarm in javascript to execute task at specified interval or delay across different files, modules",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yugandhar02/alarmJs.git"
+  },
+  "keywords": [
+    "alarm",
+    "setTimeout",
+    "setInterval",
+    "events",
+    "javascript",
+    "cross",
+    "file",
+    "alarm"
+  ],
+  "author": "yugandhar kamdi",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/yugandhar02/alarmJs/issues"
+  },
+  "homepage": "https://github.com/yugandhar02/alarmJs#readme"
+}
